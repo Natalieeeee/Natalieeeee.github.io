@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![description](https://github.com/Natalieeeee/Natalieeeee.github.io/raw/master/img/DSC06567.JPG)
 
+1. Numbered
+2. List
+4. List2
+3. List5
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
