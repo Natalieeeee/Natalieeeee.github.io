@@ -1,7 +1,6 @@
 # 大海的旅行家---海龜
 
-### 全世界有幾種海龜
-
+全世界總共有7種海龜，分別為綠蠵龜、欖蠵龜、革龜、玳瑁、赤蠵龜、平背龜和肯氏龜，在台灣則以綠蠵龜居多。
 ![description](https://raw.githubusercontent.com/Natalieeeee/Natalieeeee.github.io/master/img/%E6%B5%B7%E9%BE%9C.jpg)
 
 ## 綠蠵龜
