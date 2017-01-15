@@ -22,47 +22,22 @@
 
 
 ## 面臨的困境
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+海龜所面臨的困境主要包括（1）漁業捕殺與誤捕；（2）海上棲息地嚴重破壞；（3）海洋污染
+與傳染病；（4）產卵沙灘的破壞。海龜的主食除了海藻外，也會食水母，而現在海洋汙染、垃
+圾非常的嚴重，所以常常有海龜將塑膠袋看成是水母吃掉，導致其死亡，解剖死亡的海龜其體內
+常常有許多塑膠袋，或其他垃圾。除了垃圾外，另一個嚴重的問題是漁網，經常會有海龜被漁網
+纏繞，因為海龜是用肺呼吸，所以牠必須出水面換氣，被漁網纏繞後導致其無法換氣，進而死亡
+。大部分都是受到人類破壞所致。希望大家能更有愛的對待我們的海洋，對待海龜。
 
 ![description](https://github.com/Natalieeeee/Natalieeeee.github.io/raw/master/img/DSC06567.JPG)
 
-1. Numbered
-2. List
-4. List2
-3. List5
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-4. List2
-3. List5
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Natalieeeee/Natalieeeee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
